@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode settings
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Cypress: pastas geradas durante execução
+cypress/screenshots/
+cypress/videos/
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Pastas ocultas de IDEs
+.idea/
